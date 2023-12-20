@@ -2,7 +2,7 @@
 
 ![MasterHead](https://www.rhino3dprinter.com/Images/Urun/03122022140200.jpeg)
 
-*	Author:     Amin Hosseini
+*	Author:     Abdulkadir Erdem
 --------------------------------------------------------------------------------
 * [x] Super Loop Supported.
 * [ ] RTOS Supported.
