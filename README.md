@@ -3,7 +3,9 @@
 ![MasterHead](https://www.rhino3dprinter.com/Images/Urun/03122022140200.jpeg)
 
 *	Author:     Abdulkadir Erdem
-*	Stm32f429ı disco1
+*	DEVICE:     STM32F429I DISCO1
+* IDE:        STM32CubeIDE
+* HAL
 --------------------------------------------------------------------------------
 * [x] Super Loop Supported.
 * [ ] RTOS Supported.
