@@ -10,7 +10,7 @@
 * [x] Adxl345 Tested.
 * [ ] Adxl335 Tested.
 -------------------------------------------------------------------------------- 
-* Enable i2c Channel .
+* Support for I2C communication protocol
 * Configure `ADXL345.h` files.
 * Add 'adxl_init()' to Main File
 --------------------------------------------------------------------------------
