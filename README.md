@@ -1,6 +1,10 @@
 ## Adxl345 library for STM32 HAL
+The ADXL345 is a digital accelerometer. It has motion detection in X, Y and Z axes, G force effect, touch detection and free fall features. In this project, motion detection and G force features were used.
 
 ![MasterHead](https://www.rhino3dprinter.com/Images/Urun/03122022140200.jpeg)
+
+
+
 
 *	Author:     Abdulkadir Erdem
 *	DEVICE:     STM32F429I DISCO1
