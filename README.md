@@ -20,8 +20,8 @@
 * stm32f429i disco1      ADXL345
 * GND                    GND
 * 5V                     VCC
-  SCL                    SCL
-  SDA                    SDA 
+* SCL                    SCL
+* SDA                    SDA 
 should be done in such a way that.
 
 
