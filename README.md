@@ -13,6 +13,17 @@
 *	DEVICE:     STM32F429I DISCO1
 * IDE:        STM32CubeIDE
 * HAL
+## Connection diagram
+* Our pins that are active because we use the I2C1 line 
+* PB6 (SCL) and PB7 (SDA) pins.  
+* stm32f429i disco1      ADXL345
+* GND                    GND
+* 5V                     VCC
+  SCL                    SCL
+  SDA                    SDA 
+should be done in such a way that.
+
+
 
 ## Acceleration measurment
 ![MasterHead](https://bit.ly/3Rz7GJd)
