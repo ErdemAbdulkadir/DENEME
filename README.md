@@ -13,7 +13,7 @@
 *	DEVICE:     STM32F429I DISCO1
 * IDE:        STM32CubeIDE
 * HAL
-* 
+
 ## Connection diagram
 * Our pins that are active because we use the I2C1 line 
 * PB6 (SCL) and PB7 (SDA) pins.  
