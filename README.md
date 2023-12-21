@@ -7,6 +7,7 @@
 
 ## Project Description 
 *In this project, the motion detection and G force calculation features of the ADXL345 sensor were used. 
+
 *The i2c protocol is used as the communication protocol.
 
 *	Author:     Abdulkadir Erdem
