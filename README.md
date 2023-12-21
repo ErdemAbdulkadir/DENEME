@@ -5,19 +5,13 @@
 
 
 
+## Project Description 
+*In this project, the motion detection and G force calculation features of the ADXL345 sensor were used. 
+*The i2c protocol is used as the communication protocol.
 
 *	Author:     Abdulkadir Erdem
 *	DEVICE:     STM32F429I DISCO1
 * IDE:        STM32CubeIDE
 * HAL
---------------------------------------------------------------------------------
-* [x] Super Loop Supported.
-* [ ] RTOS Supported.
---------------------------------------------------------------------------------
-* [x] Adxl345 Tested.
-* [ ] Adxl335 Tested.
--------------------------------------------------------------------------------- 
-* Support for I2C communication protocol
-* Configure `ADXL345.h` files.
-* Add 'adxl_init()' to Main File
---------------------------------------------------------------------------------
+
+
